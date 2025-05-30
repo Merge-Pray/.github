@@ -52,5 +52,5 @@ Thanks for stopping by! Feel free to explore our projects and follow our journey
 > _"Merge often. Pray when necessary. Learn always."_  
 — The Merge and Pray Team
 
-🎧 [Listen to our team song](profile/merge_pray.mp3)
+🎧 [Listen to our team song](/merge_pray.mp3)
 

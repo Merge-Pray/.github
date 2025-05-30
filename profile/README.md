@@ -28,18 +28,6 @@ Some of the things you'll find:
 - Tailwind, CSS Modules, Bootstrap
 - And more, as we grow 💪
 
-## 📂 Project Structure
-
-Each repository contains its own `README.md` with:
-- Project description
-- Setup instructions
-- Team members
-- Learning goals and takeaways
-
-## 🤝 Join Us (if you're in our class)
-
-If you're a fellow DCI student and want to contribute, reach out to one of the members. We're always happy to collaborate and learn together.
-
 ## 🙏 Why “Merge and Pray”?
 
 Because sometimes… merging code is an act of faith 😅  

@@ -52,6 +52,7 @@ Thanks for stopping by! Feel free to explore our projects and follow our journey
 > _"Merge often. Pray when necessary. Learn always."_  
 — The Merge and Pray Team
 
-🎧 [Listen to our team song](/merge_pray.mp3) [Play Audio](https://github.com/Merge-Pray/.github/profile/merge_pray.mp3)
+🎧 [Listen to our team song](/merge_pray.mp3) [▶️ Listen to merge_pray.mp3](https://raw.githubusercontent.com/Merge-Pray/.github/main/profile/merge_pray.mp3)
+
 
 
